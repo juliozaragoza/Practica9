@@ -19,7 +19,8 @@ p{
     color: red
 }
 h2{
-    color: brown
+    color: brown;
+    text-align: center
 }
 li{
     color: orange
