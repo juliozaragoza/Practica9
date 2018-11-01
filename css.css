@@ -25,7 +25,6 @@ h2{
 li{
     color: orange
 }
-caption{
-    text-align: center;
-    color: black;
+table{
+    border: 10px
 }
