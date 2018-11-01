@@ -1,0 +1,33 @@
+head{
+    background-color: #F0C4A7
+
+}
+body {
+     background-color: #F0C4A7
+ }
+ h1{
+     text-align: center;
+     color: #4B0606
+ }
+ h5{
+     text-align: center
+ }
+ h6{
+    text-align: right
+}
+p{
+    color: red
+}
+h2{
+    color: brown
+}
+li{
+    color: orange
+}
+caption{
+    text-align: center;
+    color: black;
+}
+th{
+    text-align: center
+}
